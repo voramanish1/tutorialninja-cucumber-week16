@@ -87,10 +87,10 @@ public class LaptopAndNotebookPageSteps {
 
     @And("^I filled all mandatory field of checkout page$")
     public void iFilledAllMandatoryFieldOfCheckoutPage() {
-        new CheckoutPage().enterFirstName("Manisha");
-        new CheckoutPage().enterLastName("Mavani");
-        new CheckoutPage().enterEmailId("Manisha");
-        new CheckoutPage().enterTelephone("07878963869");
+        new CheckoutPage().enterFirstName("Manish");
+        new CheckoutPage().enterLastName("vora");
+        new CheckoutPage().enterEmailId("Manish");
+        new CheckoutPage().enterTelephone("07788778877");
         new CheckoutPage().enterAddressLine1("20,Birmingham road");
         new CheckoutPage().enterCity("Birmingham");
         new CheckoutPage().enterPostCode("CV0 10Ol");
