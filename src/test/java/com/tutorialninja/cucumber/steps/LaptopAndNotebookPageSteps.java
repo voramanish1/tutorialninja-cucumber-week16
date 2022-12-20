@@ -91,7 +91,7 @@ public class LaptopAndNotebookPageSteps {
         new CheckoutPage().enterLastName("vora");
         new CheckoutPage().enterEmailId("Manish");
         new CheckoutPage().enterTelephone("07788778877");
-        new CheckoutPage().enterAddressLine1("20,Birmingham road");
+        new CheckoutPage().enterAddressLine1("100,Birmingham road");
         new CheckoutPage().enterCity("Birmingham");
         new CheckoutPage().enterPostCode("CV0 10Ol");
         new CheckoutPage().selectCountry("India");
